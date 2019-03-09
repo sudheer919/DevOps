@@ -1,6 +1,6 @@
 1. update your system 
 ```sh 
- # yum update
+ # yum  update
 ```
 
 2. Download Nginx latest version. version we use here is : 
